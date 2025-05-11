@@ -1,0 +1,72 @@
+index,Team,Num of summer games,Num of winter games,Total num of all games,Clean Country,Continent
+0,American Samoa (ASA),10,2,12,American Samoa,Oceania
+1,Andorra (AND),13,13,26,Andorra,Europe
+2,Angola (ANG),11,0,11,Angola,Africa
+3,Antigua and Barbuda (ANT),12,0,12,Antigua and Barbuda,North America
+4,Aruba (ARU),10,0,10,Aruba,North America
+5,Bangladesh (BAN),11,0,11,Bangladesh,Asia
+6,Belize (BIZ)[BIZ],14,0,14,Belize,North America
+7,Benin (BEN)[BEN],13,0,13,Benin,Africa
+8,Bhutan (BHU),11,0,11,Bhutan,Asia
+9,Bolivia (BOL),16,7,23,Bolivia,South America
+10,Bosnia and Herzegovina (BIH),9,8,17,Bosnia and Herzegovina,Europe
+11,British Virgin Islands (IVB),11,2,13,British Virgin Islands,North America
+12,Brunei (BRU)[A],7,0,7,Brunei,Unknown
+13,Cambodia (CAM),11,0,11,Cambodia,Asia
+14,Cayman Islands (CAY),12,2,14,Cayman Islands,North America
+15,Central African Republic (CAF),12,0,12,Central African Republic,Africa
+16,Chad (CHA),14,0,14,Chad,Africa
+17,Comoros (COM),8,0,8,Comoros,Africa
+18,Republic of the Congo (CGO),14,0,14,Republic of the Congo,Africa
+19,Democratic Republic of the Congo (COD)[COD],12,0,12,Democratic Republic of the Congo,Unknown
+20,Cook Islands (COK),10,0,10,Cook Islands,Oceania
+21,El Salvador (ESA),13,0,13,El Salvador,North America
+22,Eswatini (SWZ)[SWZ],12,1,13,Eswatini,Africa
+23,Equatorial Guinea (GEQ),11,0,11,Equatorial Guinea,Africa
+24,The Gambia (GAM),11,0,11,The Gambia,Unknown
+25,Guam (GUM),10,1,11,Guam,Oceania
+26,Guinea (GUI),13,0,13,Guinea,Africa
+27,Guinea-Bissau (GBS),8,0,8,Guinea-Bissau,Africa
+28,Honduras (HON),13,1,14,Honduras,North America
+29,Kiribati (KIR),6,0,6,Kiribati,Oceania
+30,Laos (LAO),11,0,11,Laos,Asia
+31,Lesotho (LES),13,0,13,Lesotho,Africa
+32,Liberia (LBR)[C],14,0,14,Liberia,Africa
+33,Libya (LBA)[D],12,0,12,Libya,Africa
+34,Madagascar (MAD),14,3,17,Madagascar,Africa
+35,Malawi (MAW),12,0,12,Malawi,Africa
+36,Maldives (MDV),10,0,10,Maldives,Asia
+37,Mali (MLI),15,0,15,Mali,Africa
+38,Malta (MLT),18,3,21,Malta,Europe
+39,Marshall Islands (MHL),5,0,5,Marshall Islands,Oceania
+40,Mauritania (MTN),11,0,11,Mauritania,Africa
+41,Federated States of Micronesia (FSM),7,0,7,Federated States of Micronesia,Oceania
+42,Monaco (MON)[N],22,11,33,Monaco,Europe
+43,Myanmar (MYA)[MYA],19,0,19,Myanmar,Asia
+44,Nauru (NRU),8,0,8,Nauru,Oceania
+45,Nepal (NEP)[a],15,4,19,Nepal,Asia
+46,Nicaragua (NCA),14,0,14,Nicaragua,North America
+47,Oman (OMA),11,0,11,Oman,Asia
+48,Palau (PLW),7,0,7,Palau,Oceania
+49,Palestine (PLE),8,0,8,Palestine,Unknown
+50,Papua New Guinea (PNG),12,0,12,Papua New Guinea,Oceania
+51,Rwanda (RWA),11,0,11,Rwanda,Africa
+52,Saint Kitts and Nevis (SKN),8,0,8,Saint Kitts and Nevis,North America
+53,Saint Vincent and the Grenadines (VIN),10,0,10,Saint Vincent and the Grenadines,North America
+54,São Tomé and Príncipe (STP),8,0,8,São Tomé and Príncipe,Unknown
+55,Seychelles (SEY),11,0,11,Seychelles,Africa
+56,Sierra Leone (SLE),13,0,13,Sierra Leone,Africa
+57,Solomon Islands (SOL),11,0,11,Solomon Islands,Oceania
+58,Somalia (SOM),11,0,11,Somalia,Africa
+59,South Sudan (SSD),3,0,3,South Sudan,Africa
+60,Timor-Leste (TLS)[I],6,3,9,Timor-Leste,Unknown
+61,Tuvalu (TUV),5,0,5,Tuvalu,Oceania
+62,Vanuatu (VAN),10,0,10,Vanuatu,Oceania
+63,Yemen (YEM)[YEM],9,0,9,Yemen,Asia
+64,Korea (COR),0,1,1,Korea,Unknown
+65,Malaya (MAL)[MAL],2,0,2,Malaya,Unknown
+66,North Borneo (NBO)[NBO],1,0,1,North Borneo,Unknown
+67,Republic of China (ROC)[ROC],3,0,3,Republic of China,Unknown
+68,Saar (SAA)[SAA],1,0,1,Saar,Unknown
+69,North Yemen (YAR)[YAR],2,0,2,North Yemen,Unknown
+70,South Yemen (YMD)[YMD],1,0,1,South Yemen,Unknown

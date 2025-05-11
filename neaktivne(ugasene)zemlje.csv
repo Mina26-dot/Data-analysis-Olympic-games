@@ -1,0 +1,11 @@
+Index,Team,Num of summer games,Num of summer gold medals,Num of summer silver medals,Num of summer bronze medals,Total num of summer medals,Num of winter games,Num of winter gold medals,Num of winter silver medals,Num of winter bronze medals,Total num of winter medals,Combined total number of Games,Combined total number of gold medals,Combined total number of silver medals,Combined total number of bronze medals,Combined total number of all medals,Is_summer_stronger,Total_num_of_medals_per_game,has_a
+0,Bohemia,3,0,1,3,4,0,0,0,0,0,3,0,1,3,4,True,1.33,True
+1,British West Indies,1,0,0,2,2,0,0,0,0,0,1,0,0,2,2,True,2.0,False
+2,Czechoslovakia,16,49,49,45,143,16,2,8,15,25,32,51,57,60,168,True,5.25,True
+3,East Germany,5,153,129,127,409,6,39,36,35,110,11,192,165,162,519,True,47.18,True
+4,West Germany,5,56,67,81,204,6,11,15,13,39,11,67,82,94,243,True,22.09,True
+5,Netherlands Antilles,13,0,1,0,1,2,0,0,0,0,15,0,1,0,1,True,0.07,True
+6,Russian Empire,3,1,4,3,8,0,0,0,0,0,3,1,4,3,8,True,2.67,True
+7,Soviet Union,9,395,319,296,1010,9,78,57,59,194,18,473,376,355,1204,True,66.89,False
+8,Serbia and Montenegro,3,2,4,3,9,3,0,0,0,0,6,2,4,3,9,True,1.5,True
+9,Yugoslavia,16,26,29,28,83,14,0,3,1,4,30,26,32,29,87,True,2.9,True
